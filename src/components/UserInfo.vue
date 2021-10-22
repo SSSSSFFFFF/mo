@@ -23,13 +23,15 @@ const cards = [
         earn: 80,
         sell: 1500,
         num:0,
+        // 0.047
     },
     {
         name: '1070',
         prize: 2400,
-        earn: 100,
+        earn: 120,
         sell: 2000,
         num:0,
+        // 0.045
     },
     {
         name: '1080',
@@ -37,6 +39,7 @@ const cards = [
         earn: 150,
         sell: 3000,
         num:0,
+        // 0.0375
     },
     {
         name: '2060',
@@ -44,6 +47,7 @@ const cards = [
         earn: 120,
         sell: 2600,
         num:0,
+        // 0.04
     },
     {
         name: '2070',
@@ -51,6 +55,7 @@ const cards = [
         earn: 130,
         sell: 3000,
         num:0,
+        // 0.0325
     },
     {
         name: '2080',
@@ -58,6 +63,7 @@ const cards = [
         earn: 200,
         sell: 5000,
         num:0,
+        // 0.033
     },
         {
         name: '3060',
@@ -65,6 +71,7 @@ const cards = [
         earn: 190,
         sell: 3600,
         num:0,
+        //0.042
     },
     {
         name: '3070',
@@ -72,6 +79,7 @@ const cards = [
         earn: 250,
         sell: 5000,
         num:0,
+        // 0.038
     },
     {
         name: '3080',
@@ -79,6 +87,7 @@ const cards = [
         earn: 300,
         sell: 7000,
         num:0,
+        // 0.0375
     },
 ]
 
